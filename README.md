@@ -12,7 +12,7 @@ A playful Python project where you can create your own virtual pets, train them,
 - Pets can learn **multiple tricks** and proudly show them off
 
 ## 📸 Output
-[!IMG](./output.png)
+![IMG](./output.png)
 
 ## 🐍 How to Run
 
